@@ -1,0 +1,11 @@
+
+    1) video tutorial
+    2) book react 
+    3) click up confirm
+    4) task ->
+        1) map prototype use and customize - ontime
+        2) work on form input field 
+        3) Work witn map prototype - 60mins
+        4) Work on useRef - 30mins
+        5) Work on Array and json object
+
